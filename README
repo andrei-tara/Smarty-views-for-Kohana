@@ -1,0 +1,7 @@
+To use this module just copy it in the module folder and add the following 
+line of code in bootstrap.php in the koshan module init section
+  'smarty'  => MODPATH.'smarty',  // Smarty
+Now you can careate smarty views in  the application/view directory and start use them from the 
+constrollers as you are used to.
+
+Just see the example 
